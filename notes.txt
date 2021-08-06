@@ -1,0 +1,2 @@
+Needs python 3.8 for pyaudio. Does NOT work with python3.9
+SpeechRecognition link: https://pypi.org/project/SpeechRecognition/
